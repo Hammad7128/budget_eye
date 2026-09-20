@@ -1,0 +1,44 @@
+## ====================================================================
+## Visual Studio & .NET .gitignore
+## ====================================================================
+
+# Build results & Binaries
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.userprefs
+
+# Visual Studio working directory & caches
+.vs/
+.vscode/
+.idea/
+
+# Visual Studio Auto-generated & Cache files
+*.cache
+*.temp
+*.tmp
+*.bak
+*~
+Generated\ Files/
+[Tt]emp/
+[Tt]mp/
+
+# Microsoft SQL Server / Database local files
+*.mdf
+*.ldf
+*.ndf
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
